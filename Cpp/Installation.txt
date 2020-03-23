@@ -1,0 +1,2 @@
+1. Download `vcpkg` - https://github.com/microsoft/vcpkg.git
+2. Install Visual Studio (Not VSCode)

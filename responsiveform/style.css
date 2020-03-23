@@ -1,0 +1,17 @@
+form {
+  padding: 100px;
+}
+
+#gender-container {
+  padding: 20px 0;
+}
+
+#gender-container > div {
+  margin-left: 10px;
+}
+
+@media (max-width: 400px) {
+  form {
+    padding: 20px;
+  }
+}
